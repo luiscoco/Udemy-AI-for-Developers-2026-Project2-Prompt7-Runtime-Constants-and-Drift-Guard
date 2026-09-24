@@ -1,4 +1,4 @@
-# Equipment Maintenance Hub
+# Runtime Constants and Drift Guard
 
 A polyglot monorepo with an Angular 22 frontend, a FastAPI backend and one shared OpenAPI
 contract. This README covers how the contract stays the **single source of truth** for both
